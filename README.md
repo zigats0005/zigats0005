@@ -21,4 +21,5 @@ Git • GitHub • Markdown • Web3 • Blockchain
 
 Day 1 ✅
 Day 2 ✅
-Day 3 🚀
+Day 3 ✅
+Day 4 🚀
